@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/work/sdrLessons-master1/src/main.cpp
+iio/iio.h
+-
+iio/iio-debug.h
+-
+stdbool.h
+-
+stdint.h
+-
+string.h
+-
+signal.h
+-
+stdio.h
+-
+errno.h
+-
+math.h
+-
+iostream
+-
+fstream
+-
+
