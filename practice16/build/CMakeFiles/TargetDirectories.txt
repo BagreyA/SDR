@@ -1,0 +1,11 @@
+/home/plutosdr/Desktop/ia232/sdr/test1/sdrLessons/build/CMakeFiles/main.dir
+/home/plutosdr/Desktop/ia232/sdr/test1/sdrLessons/build/CMakeFiles/edit_cache.dir
+/home/plutosdr/Desktop/ia232/sdr/test1/sdrLessons/build/CMakeFiles/rebuild_cache.dir
+/home/plutosdr/Desktop/ia232/sdr/test1/sdrLessons/build/tests/CMakeFiles/edit_cache.dir
+/home/plutosdr/Desktop/ia232/sdr/test1/sdrLessons/build/tests/CMakeFiles/rebuild_cache.dir
+/home/plutosdr/Desktop/ia232/sdr/test1/sdrLessons/build/tests/tun_test/CMakeFiles/tun_test.dir
+/home/plutosdr/Desktop/ia232/sdr/test1/sdrLessons/build/tests/tun_test/CMakeFiles/edit_cache.dir
+/home/plutosdr/Desktop/ia232/sdr/test1/sdrLessons/build/tests/tun_test/CMakeFiles/rebuild_cache.dir
+/home/plutosdr/Desktop/ia232/sdr/test1/sdrLessons/build/tests/soapy_pluto/CMakeFiles/soapy_pluto_sdr_timestamp.dir
+/home/plutosdr/Desktop/ia232/sdr/test1/sdrLessons/build/tests/soapy_pluto/CMakeFiles/edit_cache.dir
+/home/plutosdr/Desktop/ia232/sdr/test1/sdrLessons/build/tests/soapy_pluto/CMakeFiles/rebuild_cache.dir
